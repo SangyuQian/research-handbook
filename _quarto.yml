@@ -8,10 +8,7 @@ website:
     search: true
     contents:
       - home.qmd
-      - research.qmd
-      - methods.qmd
-      - code.qmd
-      - reading.qmd
+      - about.qmd
 
 format:
   html:
